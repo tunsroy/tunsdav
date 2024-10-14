@@ -9,7 +9,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Theme settings
-theme: minima # You can replace 'minima' with the name of another theme
+theme: jekkyll-theme-minima # You can replace 'minima' with the name of another theme
 
 # Build settings
 plugins:
