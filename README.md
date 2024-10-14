@@ -1,4 +1,3 @@
-# visit-tunsroy.github.io
 
 ### Motivation
 
