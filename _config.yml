@@ -1,24 +1,24 @@
 # Site settings
 title: "Ogunseye Olatunde David"
 description: "Welcome to my space,"
-#baseurl: "" # The subpath of your site, e.g. /blog if your site is at example.github.io/blog
-#url: "https://yourusername.github.io" # The URL of your site
+baseurl: "" # The subpath of your site, e.g. /blog if your site is at example.github.io/blog
+url: "https://yourusername.github.io" # The URL of your site
 
 # Markdown settings
-#markdown: kramdown
-#highlighter: rouge
+markdown: kramdown
+highlighter: rouge
 
 # Theme settings
 theme: jekyll-theme-minimal # You can replace 'minima' with the name of another theme
 
 # Build settings
-#plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Social media links (optional)
-#twitter_username: your_twitter_username
-#github_username: your_github_username
+twitter_username: your_twitter_username
+github_username: your_github_username
 
 # Pagination settings
 #paginate: 5 # Number of posts per page
