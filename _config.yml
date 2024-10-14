@@ -1,6 +1,6 @@
 # Site settings
 title: "Ogunseye Olatunde David"
-description: "Welcome to my space,  "
+description: "Welcome to my space,"
 #baseurl: "" # The subpath of your site, e.g. /blog if your site is at example.github.io/blog
 #url: "https://yourusername.github.io" # The URL of your site
 
@@ -9,7 +9,7 @@ description: "Welcome to my space,  "
 #highlighter: rouge
 
 # Theme settings
-theme: jekkyll-theme-minimal # You can replace 'minima' with the name of another theme
+theme: jekyll-theme-minimal # You can replace 'minima' with the name of another theme
 
 # Build settings
 #plugins:
