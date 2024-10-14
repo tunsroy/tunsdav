@@ -9,7 +9,7 @@ description: "Welcome to my space,  "
 #highlighter: rouge
 
 # Theme settings
-theme: jekkyll-theme-minima # You can replace 'minima' with the name of another theme
+theme: jekkyll-theme-minimal # You can replace 'minima' with the name of another theme
 
 # Build settings
 #plugins:
