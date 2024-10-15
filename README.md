@@ -1,7 +1,7 @@
 
 ### Motivation
 
-### Constributions
+### Contributions
 
 ### Education
 
