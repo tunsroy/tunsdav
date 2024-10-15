@@ -3,6 +3,7 @@ title: "Ogunseye Olatunde David"
 description: "Welcome to my space,"
 baseurl: "" # The subpath of your site, e.g. /blog if your site is at example.github.io/blog
 url: "https://yourusername.github.io" # The URL of your site
+email: ogunseyeolatunde2@gmail.com
 
 # Markdown settings
 markdown: kramdown
@@ -15,6 +16,8 @@ theme: jekyll-theme-minimal # You can replace 'minima' with the name of another 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+  skin: classic
 
 # Social media links (optional)
 twitter_username: your_twitter_username
