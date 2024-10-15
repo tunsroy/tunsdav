@@ -17,7 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-  skin: classic
+skin: classic
 
 # Social media links (optional)
 twitter_username: your_twitter_username
