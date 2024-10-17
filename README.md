@@ -9,6 +9,9 @@
 - Database Management: MySQL, PostgreSQL, MongoDB
 - Version Control: Git, GitHub
 
+![image](https://github.com/user-attachments/assets/f56ae712-a9be-4382-8238-6100b19bcec0)
+
+
 
 ### Projects in view
 
