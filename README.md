@@ -1,4 +1,4 @@
-Ogunseye Olatunde David
+                                                       Ogunseye Olatunde David
 
 Technical Skills:
 Programming Languages: Python, R, SQL
