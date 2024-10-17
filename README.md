@@ -1,3 +1,4 @@
+https://github.com/tunsroy/tunsdav/blob/main/Asset/Skills.jpg
 
 ### Technical Skills in view:
 - Programming Languages: Python, R, SQL
