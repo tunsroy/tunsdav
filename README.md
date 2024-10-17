@@ -1,6 +1,5 @@
-                                                       Ogunseye Olatunde David
 
-Technical Skills:
+### Technical Skills:
 Programming Languages: Python, R, SQL
 Machine Learning: Supervised/Unsupervised Learning, NLP, Deep Learning, Reinforcement Learning
 Data Manipulation & Analysis: Pandas, NumPy, Scikit-learn
@@ -8,7 +7,9 @@ Visualization: Matplotlib, Seaborn, Tableau, Power BI
 Big Data & Cloud Platforms: Hadoop, Spark, AWS, GCP
 Database Management: MySQL, PostgreSQL, MongoDB
 Version Control: Git, GitHub
-Projects
+
+
+### Projects
 
 Below is a selection of my data science projects, showcasing my capabilities in various domains of machine learning, data analysis, and deep learning.
 
@@ -38,7 +39,7 @@ Link to project: Project Repository
 
 For a complete list of projects, visit the Projects Page.
 
-Achievements
+### Achievements
 
 Team Leadership: Successfully led a team of [X] data scientists to deliver scalable machine learning solutions, resulting in [specific outcome].
 Data-Driven Decisions: Drove a 20% increase in business performance through data-driven insights and predictive analytics.
@@ -55,12 +56,6 @@ Blog: Read about my thoughts on the latest trends and developments in data scien
 Contact Me
 
 I am always open to new opportunities and collaborations. Feel free to connect with me!
-
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
-GitHub: GitHub Profile
-Portfolio: Personal Website/Portfolio
-License
 
 This repository and its contents are licensed under the MIT License. Feel free to use the code for personal or educational purposes.
 
