@@ -45,10 +45,10 @@ For a complete list of projects, visit the Projects Page.
 
 ### Achievements
 
-Team Leadership: Successfully led a team of 12 data scientists to deliver scalable machine learning solutions, resulting in 300% in sales revenue.
-Data-Driven Decisions: Drove a 100% increase in business performance through data-driven insights and predictive analytics.
-Published Work: Published research on advnced techniques in high impact factor  journals, contributing to the advancement of data science methodologies.
-Innovation: Spearheaded the development of systems, which reduced processing time by computers systems by 20% and increased overall project efficiency.
+- Team Leadership: Successfully led a team of 12 data scientists to deliver scalable machine learning solutions, resulting in 300% in sales revenue.
+- Data-Driven Decisions: Drove a 100% increase in business performance through data-driven insights and predictive analytics.
+- Published Work: Published research on advnced techniques in high impact factor  journals, contributing to the advancement of data science methodologies.
+- Innovation: Spearheaded the development of systems, which reduced processing time by computers systems by 20% and increased overall project efficiency.
 
 How to Use This Website
 
