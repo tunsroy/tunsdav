@@ -1,9 +1,5 @@
 Ogunseye Olatunde David
 
-About Me
-
-I am a data science manager with over [X] years of experience leading data teams and solving complex problems across multiple industries such as [finance, healthcare, retail, etc.]. My expertise lies in machine learning, predictive analytics, and delivering actionable insights that support business decision-making. I have a proven track record of managing full project lifecycles from ideation to deployment, ensuring successful outcomes.
-
 Technical Skills:
 Programming Languages: Python, R, SQL
 Machine Learning: Supervised/Unsupervised Learning, NLP, Deep Learning, Reinforcement Learning
