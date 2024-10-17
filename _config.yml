@@ -2,41 +2,8 @@
 title: "Ogunseye Olatunde David"
 description: "I am a data science manager with over 3 years of experience leading data teams and solving complex problems across multiple industries such as Engineering, Finance etc. My expertise lies in machine learning, predictive analytics, and delivering actionable insights that support business decision-making. I have a proven track record of managing full project lifecycles from ideation to deployment, ensuring successful outcomes."
 logo: /Asset/IMG_6295.png
-baseurl: "" # The subpath of your site, e.g. /blog if your site is at example.github.io/blog
+show_downloads: true
 url: "https://yourusername.github.io" # The URL of your site
 email: ogunseyeolatunde2@gmail.com
 linkedin: {https//www.linkedin.com/in/ogunseye-olatunde-david}
-
-# Markdown settings
-markdown: kramdown
-highlighter: rouge
-
-# Theme settings
-theme: jekyll-theme-minimal # You can replace 'minima' with the name of another theme
-
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-skin: classic
-
-# Social media links (optional)
-twitter_username: your_twitter_username
-github_username: your_github_username
-
-# Pagination settings
-#paginate: 5 # Number of posts per page
-
-# Exclude these from processing
-#exclude:
-#  - README.md
-#  - Gemfile
-#  - Gemfile.lock
-
-# Include additional files
-#include:
- # - _pages
-
-# Permalink structure
-#permalink: /:categories/:title/
+theme: jekyll-theme-minimal
