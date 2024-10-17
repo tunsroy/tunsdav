@@ -50,6 +50,10 @@ For a complete list of projects, visit the Projects Page.
 - Published Work: Published research on advnced techniques in high impact factor  journals, contributing to the advancement of data science methodologies.
 - Innovation: Spearheaded the development of systems, which reduced processing time by computers systems by 20% and increased overall project efficiency.
 
+### Check out my Ongong Projects
+
+concrete-compressive-strength code.ipynb
+
 How to Use This Website
 
 This website is built with the Minima theme on GitHub Pages, offering a simple yet professional way to present my portfolio. You can browse my projects and code repositories, learn about my professional background, or contact me directly.
