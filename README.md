@@ -1,12 +1,12 @@
 
 ### Technical Skills:
-Programming Languages: Python, R, SQL
-Machine Learning: Supervised/Unsupervised Learning, NLP, Deep Learning, Reinforcement Learning
-Data Manipulation & Analysis: Pandas, NumPy, Scikit-learn
-Visualization: Matplotlib, Seaborn, Tableau, Power BI
-Big Data & Cloud Platforms: Hadoop, Spark, AWS, GCP
-Database Management: MySQL, PostgreSQL, MongoDB
-Version Control: Git, GitHub
+- Programming Languages: Python, R, SQL
+- Machine Learning: Supervised/Unsupervised Learning, NLP, Deep Learning, Reinforcement Learning
+- Data Manipulation & Analysis: Pandas, NumPy, Scikit-learn
+- Visualization: Matplotlib, Seaborn, Tableau, Power BI
+- Big Data & Cloud Platforms: Hadoop, Spark, AWS, GCP
+- Database Management: MySQL, PostgreSQL, MongoDB
+- Version Control: Git, GitHub
 
 
 ### Projects
