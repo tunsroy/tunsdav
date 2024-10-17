@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/c43b0652-c9db-404d-9834-0f97458ae332)
-
 
 ### Technical Skills in view:
 - Programming Languages: Python, R, SQL
