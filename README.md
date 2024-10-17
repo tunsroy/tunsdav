@@ -1,5 +1,5 @@
 
-### Technical Skills:
+### Technical Skills in view:
 - Programming Languages: Python, R, SQL
 - Machine Learning: Supervised/Unsupervised Learning, NLP, Deep Learning, Reinforcement Learning
 - Data Manipulation & Analysis: Pandas, NumPy, Scikit-learn
@@ -9,9 +9,9 @@
 - Version Control: Git, GitHub
 
 
-### Projects
+### Projects in view
 
-Below is a selection of my data science projects, showcasing my capabilities in various domains of machine learning, data analysis, and deep learning.
+Below is a selection of my feature data science projects in past tense, showcasing my capabilities in various domains of machine learning, data analysis, and deep learning.
 
 1. Customer Churn Prediction
 Description: Developed a machine learning model to predict customer churn for a telecommunications company, improving retention strategies.
@@ -41,10 +41,11 @@ For a complete list of projects, visit the Projects Page.
 
 ### Achievements
 
-Team Leadership: Successfully led a team of [X] data scientists to deliver scalable machine learning solutions, resulting in [specific outcome].
-Data-Driven Decisions: Drove a 20% increase in business performance through data-driven insights and predictive analytics.
-Published Work: Published research on [topic] in [journal/publication], contributing to the advancement of data science methodologies.
-Innovation: Spearheaded the development of [mention product/solution], which reduced processing time by [X]% and increased overall project efficiency.
+Team Leadership: Successfully led a team of 12 data scientists to deliver scalable machine learning solutions, resulting in 300% in sales revenue.
+Data-Driven Decisions: Drove a 100% increase in business performance through data-driven insights and predictive analytics.
+Published Work: Published research on advnced techniques in high impact factor  journals, contributing to the advancement of data science methodologies.
+Innovation: Spearheaded the development of systems, which reduced processing time by computers systems by 20% and increased overall project efficiency.
+
 How to Use This Website
 
 This website is built with the Minima theme on GitHub Pages, offering a simple yet professional way to present my portfolio. You can browse my projects and code repositories, learn about my professional background, or contact me directly.
