@@ -1,9 +1,8 @@
 # Site settings
 title: "Ogunseye Olatunde David"
-description: "I am a data science manager with over 3 years of experience leading data teams and solving complex problems across multiple industries such as Engineering, Finance etc. My expertise lies in machine learning, predictive analytics, and delivering actionable insights that support business decision-making. I have a proven track record of managing full project lifecycles from ideation to deployment, ensuring successful outcomes."
-logo: /Asset/IMG_6295.png
+description: "I am a data science manager with over 3 years of experience leading data teams and solving complex problems across multiple industries such as Engineering, Finance etc.
 show_downloads: true
 url: "https://yourusername.github.io" # The URL of your site
 email: ogunseyeolatunde2@gmail.com
-linkedin: {https//www.linkedin.com/in/ogunseye-olatunde-david}
+linkedin: (https//www.linkedin.com/in/ogunseye-olatunde-david)
 theme: jekyll-theme-minimal
