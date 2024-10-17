@@ -1,5 +1,5 @@
 
-### Technical Skills in view: ![image](https://github.com/user-attachments/assets/8b03d701-dbcd-4e1d-a7d9-11ec69200f46)
+### Technical Skills in view:
 
 - Programming Languages: Python, R, SQL
 - Machine Learning: Supervised/Unsupervised Learning, NLP, Deep Learning, Reinforcement Learning
